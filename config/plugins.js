@@ -3,7 +3,7 @@ module.exports = ({ env }) => ({
 		enabled:  true,
 	},
   'duplicate-button': true,
-	// ckeditor: true,
+	ckeditor: true,
 	seo: {
     enabled: true,
   },
